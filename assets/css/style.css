@@ -1,0 +1,38 @@
+.fonteT{
+
+    font-family: lobster;
+    font-size: 40px;
+}
+.fonteT1{
+
+    font-family: lobster;
+    font-size: 60px;
+}
+.fontFamilia{
+
+    font-family: lobster;
+}
+.margemT{
+
+    margin-top:"50px";
+}
+.corT{
+
+    color: white;
+    
+}
+.margemS{
+margin-left: 10px;
+
+}
+.tamanhoFt{
+
+    width: 45%;
+}
+.corS{
+    color: white;
+}
+.topo{
+    margin-top: 55px;
+    padding: 30px;
+}
